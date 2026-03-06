@@ -40,14 +40,14 @@ This project demonstrates how Machine Learning models can be integrated with a w
 # Project Structure
 Loan_Prediction_Project
 
--app.py
--model.pkl
--Loan_Status_Prediction.ipynb
--Dataset_Loan.csv
--requirements.txt
--templates
+- app.py
+- model.pkl
+- Loan_Status_Prediction.ipynb
+- Dataset_Loan.csv
+- requirements.txt
+- templates
     -index.html
     -help.html
--static
+- static
     -style.css
--README.md
+- README.md
