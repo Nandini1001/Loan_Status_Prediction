@@ -37,17 +37,17 @@ This project demonstrates how Machine Learning models can be integrated with a w
 
 --Support Vector Machine (SVM)
 
-#Project Structure
+# Project Structure
 Loan_Prediction_Project
 
- app.py
- model.pkl
- Loan_Status_Prediction.ipynb
- Dataset_Loan.csv
- requirements.txt
- templates
-    index.html
-    help.html
- static
-    style.css
- README.md
+-app.py
+-model.pkl
+-Loan_Status_Prediction.ipynb
+-Dataset_Loan.csv
+-requirements.txt
+-templates
+    -index.html
+    -help.html
+-static
+    -style.css
+-README.md
